@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** Menubar Brightness — https://github.com/lucasbento/menubar-brightness
-- **Original authors:** Copyright (c) Lucas Bento <lucas.bsilva@outlook.com> (https://github.com/lucasbento); The above copyright notice and this permission notice shall be included in; AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+- **Original authors:** Copyright (c) Lucas Bento <lucas.bsilva@outlook.com> (https://github.com/lucasbento)
 - **License:** MIT (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** 7f092f019e869d89a6cff204dcc5c76fd4b12142 (upstream HEAD of `master` at acquisition)
 - **Date acquired:** 2026-11-10
